@@ -17,5 +17,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## RESULTS UI
-Uploading My Application – MainActivity.kt [My_Application.app.main] 2022-11-14 16-06-27.mp4…
+https://user-images.githubusercontent.com/72927218/201619958-366b23a1-3e1b-4f50-ab23-96668fc4aee1.mp4
 
